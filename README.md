@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duvan Cruz</h1>
 <h3 align="center">A passionate amateur programmer, not professional</h3>
 
-- 🔭 I’m currently working on **Cafeto Software**
+- 🔭 I’m currently working for **Cafeto Software**
 
 - 💬 Ask me about **Python, C++, HTML, CSS, JavaScript**
 
